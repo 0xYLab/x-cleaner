@@ -10,3 +10,19 @@ __pycache__/
 cookies*.json
 session*.json
 
+
+runs/
+debug/
+screenshots/
+temp/
+
+token*.txt
+auth_token*
+ct0*
+cookie*.txt
+session*.txt
+config.local.*
+
+*.tmp
+*.bak
+*.swp
